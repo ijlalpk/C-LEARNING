@@ -1,0 +1,7 @@
+#include <iostream>
+
+main()
+{
+
+    cout << "Welcome to Virtual university!":
+}
